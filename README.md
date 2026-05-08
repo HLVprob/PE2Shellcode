@@ -2,7 +2,7 @@
 
 [![LANG](https://img.shields.io/badge/LANGUAGE-555555?style=for-the-badge)![C](https://img.shields.io/badge/-%20-%2300599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![LANG](https://img.shields.io/badge/LANGUAGE-555555?style=for-the-badge)![C++](https://img.shields.io/badge/-%20-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
-[![PLATFORM](https://img.shields.io/badge/PLATFORM-555555?style=for-the-badge)![Windows](https://img.shields.io/badge/-%20-%230078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![BUILD](https://img.shields.io/badge/BUILD-555555?style=for-the-badge)![GCC](https://img.shields.io/badge/-%20-%23e34c26?style=for-the-badge&logo=gnu&logoColor=white)](#)
 [![BUILD](https://img.shields.io/badge/BUILD-555555?style=for-the-badge)![NASM](https://img.shields.io/badge/-%20-%23141414?style=for-the-badge&logo=linux&logoColor=white)](#)
 
